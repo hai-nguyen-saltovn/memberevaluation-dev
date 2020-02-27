@@ -1,0 +1,22 @@
+{
+  "name": "memberemployee",
+  "description": "Project manager and member evualation",
+  "version": "0.0.0",
+  "homepage": "/",
+  "license": "/",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.6.x",
+    "angular-route": "~1.6.x",
+    "angular-loader": "~1.6.x",
+    "angular-mocks": "~1.6.x",
+    "angular-material":"1.1.5",
+    "angular-material-icons":"0.7.1",
+    "angular-ui-router":"1.0",
+    "angular-resource": "1.6.x",
+    "jquery": "3.2.x",
+    "Chart.PieceLabel.js":"0.8.2",
+    "angular-material-data-table":"0.10.10",
+    "angular-chart.js":"1.1.1"
+  }
+}

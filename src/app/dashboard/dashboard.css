@@ -1,0 +1,36 @@
+.sidebar-icon{
+    margin-top: 8px;
+}
+
+.message {
+    height: 100px;
+}
+
+.title-icon{
+    padding-right: 3px;
+}
+.md-datepicker-input-container {
+     margin-left: 0px!important;
+}
+.today-message{
+    padding: 3px;
+}
+.message-content {
+    margin-left: 15px!important;
+}
+
+
+.md-card-margin{
+    margin-bottom: 0px !important;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
+.md-card-no-margin-top {
+    margin-top: 0px;
+}
+
+.priority-high {
+    color: red;
+}
+
